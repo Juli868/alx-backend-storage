@@ -1,0 +1,2 @@
+//Listing all documents in a collectio
+db.school.find();
