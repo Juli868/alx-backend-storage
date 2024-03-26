@@ -1,0 +1,2 @@
+//Counting all documents in my collection.
+db.school.count();
