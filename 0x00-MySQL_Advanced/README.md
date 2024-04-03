@@ -1,0 +1,1 @@
+Advancement of sql knowledge
